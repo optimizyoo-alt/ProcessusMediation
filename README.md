@@ -11,6 +11,6 @@ Vidéo animée présentant les 5 étapes du processus de médiation sous forme d
 
 ## Voir la vidéo
 
-En ligne : https://VOTRE-NOM-GITHUB.github.io/ProcessusMediation/
+En ligne : https://optimizyoo-alt.github.io/ProcessusMediation/
 
 Ou ouvrir `index.html` dans un navigateur. Le fichier est autonome et fonctionne sans connexion.
